@@ -8,6 +8,8 @@ public class Hi {
 		 * Change CD
 		 */
 		System.out.println("Hi");
+		System.out.println("HElloWorld");
+		
 	}
 }
 /*=======
